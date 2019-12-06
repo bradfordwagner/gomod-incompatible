@@ -14,6 +14,8 @@ verifying github.com/influxdata/influxdb@v2.0.0-alpha.1+incompatible/go.mod: git
 - Which will cause an error if
 - We expect to see no syntax highlighting or external libraries added
 ![img](assets/syntax.png)
+- note it can still run:
+![runIt](assets/runs.png)
 
 ## build it
 - prove that it would work otherwise

@@ -16,6 +16,7 @@ verifying github.com/influxdata/influxdb@v2.0.0-alpha.1+incompatible/go.mod: git
 ![img](assets/syntax.png)
 
 ## build it
+- prove that it would work otherwise
 ```bash
 # build
 cd cmd

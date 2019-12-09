@@ -12,7 +12,7 @@ GOPATH=/Users/bwagner/go #gosetup
 verifying github.com/influxdata/influxdb@v2.0.0-alpha.1+incompatible/go.mod: github.com/influxdata/influxdb@v2.0.0-alpha.1+incompatible/go.mod: reading https://sum.golang.org/lookup/github.com/influxdata/influxdb@v2.0.0-alpha.1+incompatible: 410 Gone
 ```
 ![go-list](assets/go-list.png)
-- Which will cause an error if
+- Which will cause an error
 - We expect to see no syntax highlighting or external libraries added
 
 ![img](assets/syntax.png)
